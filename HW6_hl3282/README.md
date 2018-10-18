@@ -29,4 +29,4 @@
 - https://github.com/Hancylee525/PUI2018_hl3282/blob/master/HW6_hl3282/Assignment3_hl3282.ipynb
 
 ## Assignment4: Tests of correlation using the scipy package with citibike data
--
+- https://github.com/Hancylee525/PUI2018_hl3282/blob/master/HW6_hl3282/Assignment4_hl3282.ipynb
