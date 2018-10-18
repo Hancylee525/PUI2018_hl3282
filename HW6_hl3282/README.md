@@ -3,6 +3,8 @@
 ## By Hanxing Li(hl3282)
 
 ## Assignment1: Review your classmate's Citibike project proposal
+![](https://github.com/Hancylee525/PUI2018_hl3282/blob/master/HW6_hl3282/create_pull_request.png)
+- https://github.com/Hancylee525/PUI2018_hl3282/blob/master/HW6_hl3282/CitibikeReview_hl3282.md
 
 ## Assignment2: Literature choices of statistical tests
 - note: Only this is a group work
@@ -24,6 +26,7 @@
 
 
 ## Assignment3: Reproduce the analysis of the Hard to Employ program in NY
-
+- https://github.com/Hancylee525/PUI2018_hl3282/blob/master/HW6_hl3282/Assignment3_hl3282.ipynb
 
 ## Assignment4: Tests of correlation using the scipy package with citibike data
+-
