@@ -2,7 +2,7 @@
 ## by Hanxing Li(hl3282)
 
 ## Assignment 1: create a plot
-
+![](https://github.com/Hancylee525/PUI2018_hl3282/blob/master/HW8_hl3282/Assignment1_plot.png)
 ## Assignment 2: Finish your Citibike miniproject
 ### note: only this assignment is a group work
 - code link: https://github.com/Hancylee525/PUI2018_hl3282/blob/master/HW8_hl3282/Assignment2_Citibikes_Usertype.ipynb
