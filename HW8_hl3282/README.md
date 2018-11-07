@@ -5,5 +5,5 @@
 
 ## Assignment 2: Finish your Citibike miniproject
 ### note: only this assignment is a group work
-### code link: 
-### report link: - https://www.authorea.com/users/249320/articles/335330-hypothesis-report-for-citibike-data?access_token=4EtIitYhi3WEEaJm7pPBjA
+- code link: https://github.com/Hancylee525/PUI2018_hl3282/blob/master/HW8_hl3282/Assignment2_Citibikes_Usertype.ipynb
+- report link: https://www.authorea.com/users/249320/articles/335330-hypothesis-report-for-citibike-data?access_token=4EtIitYhi3WEEaJm7pPBjA
