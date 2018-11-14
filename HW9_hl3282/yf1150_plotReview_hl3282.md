@@ -11,7 +11,7 @@
 ![](https://github.com/effyfan/PUI2018_yf1150/blob/master/HW8_yf1150/figure2.png)
 
 ## Figure3
-![](https://github.com/effyfan/PUI2018_yf1150/blob/master/HW8_yf1150/figure3.png4)
+![](https://github.com/effyfan/PUI2018_yf1150/blob/master/HW8_yf1150/figure3.png)
 
 ## Figure4
 ![](https://github.com/effyfan/PUI2018_yf1150/blob/master/HW8_yf1150/figure4.png)
