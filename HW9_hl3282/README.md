@@ -1,7 +1,7 @@
 # HW9_hl3282
 ## By Hanxing Li(hl3282)
 
-## Assignment 1:
+## Assignment 1: peer plot review
 
 Effy Fan's plots review: link - https://github.com/Hancylee525/PUI2018_hl3282/blob/master/HW9_hl3282/yf1150_plotReview_hl3282.md
 
