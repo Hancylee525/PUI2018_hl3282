@@ -3,9 +3,11 @@
 
 ## Assignment 1: peer plot review
 
-Effy Fan's plots review: link - https://github.com/Hancylee525/PUI2018_hl3282/blob/master/HW9_hl3282/yf1150_plotReview_hl3282.md
+Effy Fan's plots review: 
+ - https://github.com/Hancylee525/PUI2018_hl3282/blob/master/HW9_hl3282/yf1150_plotReview_hl3282.md
 
-Haoming Yang's plots review: link - https://github.com/Hancylee525/PUI2018_hl3282/blob/master/HW9_hl3282/hy1528_plotReview_hl3282.md
+Haoming Yang's plots review: 
+ - https://github.com/Hancylee525/PUI2018_hl3282/blob/master/HW9_hl3282/hy1528_plotReview_hl3282.md
 
 ## Assignment 2: exercises with linear regression using statsmodels
 - https://github.com/Hancylee525/PUI2018_hl3282/blob/master/HW9_hl3282/Assignment2_hl3282.ipynb
