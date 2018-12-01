@@ -8,4 +8,4 @@
 - https://github.com/Hancylee525/PUI2018_hl3282/blob/master/HW10_hl3282/building_nrg_instructions_hl3282.ipynb
 
 ## Contribution 
-work individually
+Work individually
