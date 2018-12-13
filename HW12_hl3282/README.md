@@ -2,7 +2,7 @@
 ## by Hanxing Li(hl3282)
 
 ## Assignment 1: Cluster zipcodes based on the economic development (business counts) in time for 1993-2006
-- https://github.com/Hancylee525/PUI2018_hl3282/blob/master/HW12_hl3282/HW12_Assignment2_instructions_hl3282.ipynb
+- https://github.com/Hancylee525/PUI2018_hl3282/blob/master/HW12_hl3282/HW12_Assignment1_instructions_hl3282.ipynb
 
 ### In assignment 1(Cluster zipcodes), I work individually.
 
